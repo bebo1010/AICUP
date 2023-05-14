@@ -1,0 +1,40 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Jupyter Notebook output
+*.ipynb_output/
+
+# Ignore Jupyter Notebook metadata
+*.ipynb_metadata/
+
+# Ignore virtual environment files
+venv/
+env/
+*.env
+
+# Ignore local configuration files
+*.ini
+*.env
+*.log
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.lib
+*.dll
+*.a
+*.exe
+
+# Ignore build output
+build/
+dist/
+*.egg-info/
+
+# Ignore tokenized data and original wiki pages
+/data/*
